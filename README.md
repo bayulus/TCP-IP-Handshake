@@ -1,4 +1,7 @@
 # TCP/IP-Handshake (SYN | SYN-ACK | ACK)
+
+<img src="https://github.com/bayulus/TCP-IP-Handshake/blob/main/header.png?raw=true" >
+
 **This demonstration is just to show you how the three-way handshake works and a little explanation on each flags.**
 
 The TCP/IP three-way handshake is a fundamental aspect of network communication, serving as the cornerstone for establishing reliable connections between devices on the Internet. Understanding how this handshake works is crucial for network engineers, security analysts, and anyone involved in network infrastructure management. In the event of a security incident, such as a data breach or network intrusion, knowledge of the TCP handshake enables security personnel to conduct forensic analysis. They can examine captured network traffic to reconstruct the sequence of events leading up to the incident, identify the point of compromise, and determine the extent of unauthorized access.
