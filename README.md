@@ -1,4 +1,4 @@
-# TCP/IP-Handshake (SYN | SYN-ACK | ACK) Demonstration
+# TCP/IP 3-Way Handshake (SYN | SYN-ACK | ACK) Demonstration
 
 <img src="https://github.com/bayulus/TCP-IP-Handshake/blob/main/header.png?raw=true" >
 
